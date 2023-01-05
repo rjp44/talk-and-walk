@@ -32,8 +32,8 @@ Examples of unacceptable behaviour include:
   advances of any kind
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment
-* Repeating or publishing others' private information or opinions 
-  gathered during a walk without their explicit permission
+* Repeating or publishing others' private information or attributed opinions 
+  without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional or civilised social setting
 
@@ -43,7 +43,7 @@ As there are no leaders for a walk, it is the responsibility of all attendees to
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behaviour may result in attendees being asked to leave the group and not being given information about the start p[oint of future walks.
+Instances of abusive, harassing, or otherwise unacceptable behaviour may result in attendees being asked to leave the group of walkers and/or not being given information about the start point of future walks.
 
 
 ## Attribution
